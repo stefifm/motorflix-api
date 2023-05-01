@@ -139,9 +139,9 @@
   "categorias": [
     {
       "id": "fiawec",
-      "nombre": "FIA WEC",
+      "nombre": "WEC",
       "descripcion": "Campeonato Mundial de Resistencia",
-      "color": "#6BD1FF",
+      "color": "#005792",
       "codigoSeguridad": "fiawec2023"
     },
     {
