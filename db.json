@@ -162,7 +162,8 @@
   "user": [
     {
       "email": "admin@gmail.com",
-      "password": "adminRebellion"
+      "password": "adminRebellion",
+      "id": "1"
     }
   ]
 }
