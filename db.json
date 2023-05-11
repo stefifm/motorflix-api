@@ -158,5 +158,11 @@
       "color": "#6B5BE2",
       "codigoSeguridad": "indycar2023"
     }
+  ],
+  "user": [
+    {
+      "email": "admin@gmail.com",
+      "password": "adminRebellion"
+    }
   ]
 }
